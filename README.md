@@ -1,6 +1,6 @@
 # Golang minitools
 
-This is the repository for a webpage hosting a few Golang tools that I've made, that were useful to myself but that might very well be useful for others. You can use it directly at [this address](https://dotpy3.github.io/minigotools/).
+This is the repository for a webpage hosting a few Golang tools that I've made, that were useful to myself but that might very well be useful for others. You can use it directly at [this address](https://dotpy3.github.io/gotools/).
 
 If you share that opinion, please feel free to fork this repository and to propose your own improvements.
 
